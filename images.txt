@@ -7,3 +7,4 @@ xhofe/alist:latest
 mzz2017/v2raya
 cloudnas/clouddrive2-unstable
 adguard/adguardhome
+btpanel/baota
