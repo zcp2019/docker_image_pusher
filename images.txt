@@ -1,13 +1,14 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-mzz2017/v2raya
-cloudnas/clouddrive2-unstable
-adguard/adguardhome
-btpanel/baota
-2224758988/onecloud:openwrt-1.0 
+#--platform=linux/arm64 xiaoyaliu/alist
+#mzz2017/v2raya
+#cloudnas/clouddrive2-unstable
+#adguard/adguardhome
+#btpanel/baota
+#2224758988/onecloud:openwrt-1.0 
 #wky pswall adguardhome
-jyhking/onecloud:1.1
+#jyhking/onecloud:1.1
+benzbrake/pgyvpn
