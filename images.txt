@@ -11,4 +11,5 @@
 #2224758988/onecloud:openwrt-1.0 
 #wky pswall adguardhome
 #jyhking/onecloud:1.1
-benzbrake/pgyvpn
+#benzbrake/pgyvpn
+pixman/pixman-armv7
