@@ -12,4 +12,3 @@
 #wky pswall adguardhome
 #jyhking/onecloud:1.1
 #benzbrake/pgyvpn
-pixman/pixman-armv7:latest
