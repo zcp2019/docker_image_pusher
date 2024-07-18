@@ -12,3 +12,4 @@ nginx
 #wky pswall adguardhome
 #jyhking/onecloud:1.1
 #benzbrake/pgyvpn
+registry.cn-hangzhou.aliyuncs.com/pbx/fsphone:latest
