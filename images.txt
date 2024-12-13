@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -13,5 +13,5 @@ nginx
 #jyhking/onecloud:1.1
 #benzbrake/pgyvpn
 #registry.cn-hangzhou.aliyuncs.com/pbx/fsphone:latest
-ghcr.io/open-webui/open-webui:main
-vos8.0/centos7.6:v1
+#ghcr.io/open-webui/open-webui:main
+vos8.0/centos7.6
