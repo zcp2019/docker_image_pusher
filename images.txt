@@ -14,4 +14,5 @@
 #benzbrake/pgyvpn
 #registry.cn-hangzhou.aliyuncs.com/pbx/fsphone:latest
 #ghcr.io/open-webui/open-webui:main
-vos8.0/centos7.6
+#vos8.0/centos7.6
+doubebly/doube-ofiii:1.0.5
