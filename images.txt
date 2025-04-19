@@ -15,4 +15,6 @@
 #registry.cn-hangzhou.aliyuncs.com/pbx/fsphone:latest
 #ghcr.io/open-webui/open-webui:main
 #vos8.0/centos7.6
-cqshushu/iptv-hls:latest
+--platform=linux/amd64 cqshushu/iptv-hls:latest
+--platform=linux/arm/v7 cqshushu/iptv-hls:latest
+--platform=linux/arm64 cqshushu/iptv-hls:latest
